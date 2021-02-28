@@ -5,8 +5,4 @@ var db = mysql.createConnection({
     password: "123a123" 
 });
 
-db.connect(function(err){
-    if(err) throw err;
-    console.log('Connected!');
-});
-
+module.exports = db;
