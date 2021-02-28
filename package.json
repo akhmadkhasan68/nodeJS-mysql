@@ -1,0 +1,17 @@
+{
+  "name": "belajar-node",
+  "version": "1.0.0",
+  "description": "project belajar nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "hasan68",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
